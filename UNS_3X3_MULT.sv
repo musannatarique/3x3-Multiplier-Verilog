@@ -1,9 +1,7 @@
 //-----------------------------------------------------------------------------
 //
-// Title       : UNS_3X3_MULT
+// Title       : UNS_3X3_MULT (TOP Module)
 // Design      : UNS_3X3_MULT
-// Author      : ashiqurakash403@gmail.com
-// Company     : AIUB
 //
 //-----------------------------------------------------------------------------
 //
@@ -48,4 +46,5 @@ module UNS_3X3_MULT (.*);
 	MULT_DATAPATH DP (.*);
 	
 endmodule : UNS_3X3_MULT
+
 
