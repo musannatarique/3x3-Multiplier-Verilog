@@ -2,8 +2,6 @@
 //
 // Title       : MULT_DATAPATH
 // Design      : UNS_3X3_MULT
-// Author      : ashiqurakash403@gmail.com
-// Company     : AIUB
 //
 //-----------------------------------------------------------------------------
 //
@@ -99,3 +97,4 @@ module MULT_DATAPATH (
     end : COMPARATOR
 
 endmodule : MULT_DATAPATH
+
