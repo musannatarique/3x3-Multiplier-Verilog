@@ -5,7 +5,7 @@ timeprecision 1ps;
 
 import MULT_PKG::*;
 
-module UNS_3X3_MULT_tb;
+module UNS_3X3_MULT_TB;
 
 
 //Internal signals declarations:
@@ -126,4 +126,5 @@ assign EQUAL = UNS_3X3_MULT_tb.UUT.FSM.EQUAL;
 	end : SIMULATION_CONTROL 
 
 endmodule : UNS_3X3_MULT_tb
+
 
