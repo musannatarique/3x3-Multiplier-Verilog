@@ -2,8 +2,6 @@
 //
 // Title       : MULT_FSM
 // Design      : UNS_3X3_MULT
-// Author      : ashiqurakash403@gmail.com
-// Company     : AIUB
 //
 //-----------------------------------------------------------------------------
 //
@@ -115,4 +113,5 @@ module MULT_FSM (.*);
 	
 endmodule : MULT_FSM                                                                                                                             
 								
+
 
