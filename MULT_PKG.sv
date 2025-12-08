@@ -2,7 +2,6 @@
 //
 // Title       : MULT_PKG
 // Design      : UNS_3X3_MULT
-// Company     : AIUB
 //
 //-----------------------------------------------------------------------------
 //
@@ -26,3 +25,4 @@ parameter NO_OF_STATE = 6;
 localparam STATE_REG_WIDTH = $clog2(NO_OF_STATE);
 	
 endpackage : MULT_PKG
+
